@@ -1,0 +1,1 @@
+# mi-bachelor-wd-cranach-vue-starterpack
